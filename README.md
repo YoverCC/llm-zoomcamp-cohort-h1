@@ -1,2 +1,13 @@
 # llm-zoomcamp-cohort-h1
 LLM Zoomcamp - Homework1 - Agentic RAG
+
+Answers in notebook.ipynb
+
+Resume:
+
+Q1: 72
+Q2: 01-agentic-rag/lessons/14-agentic-loop.md
+Q3: 7000
+Q4: 295
+Q5: 3x fewer
+Q6: 4
